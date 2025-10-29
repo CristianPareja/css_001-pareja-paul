@@ -1,2 +1,15 @@
-h1{color: red;
+h1{color: #825d8f;
+}
+p {
+    color: yellow;
+}
+button{
+    background-color: red;
+}
+section{
+    background-color: lightgray;
+}
+
+.hero{
+    background-color: #588ab0;
 }
